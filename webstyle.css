@@ -6,3 +6,27 @@ li{
     display: inline;
     border: 1px solid black;
 }
+
+a{
+    color: white;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.contentBoxLeft{
+    width: 40%;
+    height: 300px;
+    border: 5px solid black;
+    position: absolute;
+    display: block;
+    left: 0;
+}
+
+.contentBoxRight{
+    width: 40%;
+    height: 300px;
+    border: 5px solid black;
+    position: absolute;
+    display: block;
+    right: 0;
+}
